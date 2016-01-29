@@ -7,7 +7,7 @@ This repo contains defaults for the Unum UX team's default eslint configuration.
 Install in your project with:
 
 ```bash
-npm i --save-dev @unumux/eslint-config-unumux
+npm i --save-dev @unumux/eslint-config-unumux eslint babel-eslint
 ```
 
 Then create a file in the root folder called .eslintrc.json. Put the following in this file:
