@@ -1,5 +1,7 @@
 # Unum UX eslint config
 
+[![Travis](https://img.shields.io/travis/unumux/eslint-config-unumux.svg)](https://travis-ci.org/unumux/eslint-config-unumux) [![npm (scoped)](https://img.shields.io/npm/v/@unumux/eslint-config-unumux.svg)](https://www.npmjs.com/package/@unumux/eslint-config-unumux)
+
 This repo contains defaults for the Unum UX team's default eslint configuration.
 
 ## Usage
