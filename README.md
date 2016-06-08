@@ -47,3 +47,13 @@ Node has slightly different rules for linting. To enable this ruleset, create an
     "extends": "@unumux/unumux/node"
 }
 ```
+
+## Usage with React
+
+React also has slightly different rules for linting. To enable this ruleset, create an .eslintrc.json file with the following:
+
+```json
+{
+    "extends": "@unumux/unumux/react"
+}
+```
