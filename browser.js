@@ -6,4 +6,4 @@ module.exports = {
         amd: true
     },
     extends: "@unumux/unumux/base"
-}
+};
