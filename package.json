@@ -4,8 +4,7 @@
     "main": "browser.js",
     "scripts": {
         "commit": "git-cz",
-        "test": "true",
-        "semantic-release": "semantic-release pre && npm publish --access public && semantic-release post"
+        "test": "true"
     },
     "version": "0.0.0-SEMANTICALLY-RELEASED",
     "author": "",
@@ -40,7 +39,8 @@
                 "perf",
                 "test",
                 "chore",
-                "revert"
+                "revert",
+                "ci"
             ],
             "warnOnFail": false,
             "maxSubjectLength": 100
