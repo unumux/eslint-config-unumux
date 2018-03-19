@@ -6,7 +6,8 @@ module.exports = {
         "linebreak-style": ["warn", "unix"],
         semi: ["error", "always"],
         "no-console": "warn",
-        "no-unused-vars": "warn"
+        "no-unused-vars": "warn",
+        "arrow-parens": ["error", "always"]
     },
     env: {
         es6: true
